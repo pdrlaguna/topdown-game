@@ -1,0 +1,15 @@
+{
+  "name": "topdown-game",
+  "version": "1.0.0",
+  "description": "A topdown phaser project",
+  "main": "index.js",
+  "repository": {},
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^0.9.0",
+    "phaser": "^2.6.2"
+  },
+  "scripts": {
+    "start": "http-server ."
+  }
+}
