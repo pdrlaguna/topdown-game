@@ -1,8 +1,9 @@
 let map;
 let tileset;
-let layer;
+let shadowLayer;
+let floorLayer;
+let celingLayer;
 let player;
-let walls;
 let cursors;
 
 var States = {

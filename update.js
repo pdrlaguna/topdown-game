@@ -1,5 +1,5 @@
 let update = function() {
-    game.physics.arcade.collide(player, walls);
+    game.physics.arcade.collide(player, wallsLayer);
 
     player.body.velocity.x = 0;
     player.body.velocity.y = 0;
